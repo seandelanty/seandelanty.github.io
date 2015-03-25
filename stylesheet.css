@@ -12,5 +12,13 @@ div {
 }
 
 #header {
+	height: 10px;
+	margin-bottom: 10px;
 	font-weight: 700;
+}
+
+#footer {
+	height: 10px;
+	font-weight: 300;
+	clear: both;
 }
