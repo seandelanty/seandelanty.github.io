@@ -13,4 +13,5 @@ div {
 
 #header {
 	font-weight: 700;
+	float: top;
 }
