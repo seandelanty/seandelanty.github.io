@@ -4,21 +4,23 @@
 
 body {
 	background-color: #000000;
+	color: white;
 }
 
 div {
-	color: white;
     	font-family: 'Lato', sans-serif;
 }
 
 #header {
 	height: 10px;
 	margin-bottom: 10px;
+	color: white;
 	font-weight: 700;
 }
 
 #footer {
 	height: 10px;
 	font-weight: 300;
+	color: gray;
 	clear: both;
 }
