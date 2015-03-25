@@ -13,9 +13,9 @@ div {
 
 #header {
 	height: 10px;
+	font-weight: 400;
 	margin-bottom: 10px;
 	color: white;
-	font-weight: 400;
 }
 
 #footer {
