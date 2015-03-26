@@ -19,11 +19,13 @@ div {
 }
 
 #sidebar {
+	font-weight: 300;
+	color: #858585;
 }
 
 #footer {
 	height: 10px;
 	font-weight: 300;
-	color: gray;
+	color: #464646;
 	clear: both;
 }
