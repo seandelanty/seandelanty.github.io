@@ -19,6 +19,12 @@ div {
 	color: white;
 }
 
+#body {
+	float: right;
+	color: #ffffff;
+	clear: both;
+}
+
 #sidebar {
 	font-weight: 300;
 	color: #858585;
@@ -26,9 +32,9 @@ div {
 	float: left;
 }
 
-#body {
-	float: right;
+#content {
 	color: #ffffff;
+	float: left;
 }
 
 #footer {
