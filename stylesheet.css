@@ -46,6 +46,7 @@ div {
 	color: #464646;
 	clear: both;
 	position: fixed; 
-    	bottom:0%;
-    	width:100%;
+    	bottom: 0%;
+    	width: 100%;
+    	padding: 20px;
 }
