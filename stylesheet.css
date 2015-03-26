@@ -26,6 +26,7 @@ div {
 	display: inline;
 	position: relative;
   	float: left;
+  	padding: 20px;
 }
 
 #body {
@@ -48,5 +49,5 @@ div {
 	position: fixed; 
     	bottom: 0%;
     	width: 100%;
-    	padding: 20px;
+    	padding: 30px;
 }
