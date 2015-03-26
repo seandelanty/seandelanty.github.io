@@ -33,11 +33,7 @@ div {
 	display: inline;
   	position: relative;
   	float: left;
-}
-
-#content {
-	color: #ffffff;
-	float: left;
+  	margin-left: 20px;
 }
 
 #footer {
