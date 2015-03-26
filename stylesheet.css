@@ -19,17 +19,21 @@ div {
 	color: white;
 }
 
-#body {
-	float: right;
-	color: #ffffff;
-	clear: both;
-}
-
 #sidebar {
 	font-weight: 300;
 	color: #858585;
 	width: 70px;
-	float: left;
+	display: inline;
+	position: relative;
+  	float: left;
+}
+
+#body {
+	color: #ffffff;
+	clear: both;
+	display: inline;
+  	position: relative;
+  	float: left;
 }
 
 #content {
