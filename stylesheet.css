@@ -12,7 +12,6 @@ div {
 }
 
 #header {
-	position: fixed;
 	height: 10px;
 	font-weight: 400;
 	margin-bottom: 10px;
@@ -20,7 +19,6 @@ div {
 }
 
 #sidebar {
-	position: fixed;
 }
 
 #footer {
