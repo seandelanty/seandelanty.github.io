@@ -12,10 +12,15 @@ div {
 }
 
 #header {
+	position: fixed;
 	height: 10px;
 	font-weight: 400;
 	margin-bottom: 10px;
 	color: white;
+}
+
+#sidebar {
+	position: fixed;
 }
 
 #footer {
