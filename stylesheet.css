@@ -23,6 +23,12 @@ div {
 	font-weight: 300;
 	color: #858585;
 	width: 70px;
+	float: left;
+}
+
+#body {
+	float: right;
+	color: #ffffff;
 }
 
 #footer {
