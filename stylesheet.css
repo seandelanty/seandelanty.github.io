@@ -78,6 +78,15 @@ a.index {
 	margin-top: -30px;
 }
 
+#container2 {
+	height: 600px;
+	width: 11500px;
+	overflow: scroll;
+	float: left;
+	margin-left: 105px;
+	margin-top: -30px;
+}
+
 div.viewphotos {
 	display: inline-block;
 	overflow: hidden;
