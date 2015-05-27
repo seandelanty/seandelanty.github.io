@@ -3,18 +3,18 @@
 }
 
 body {
-	background-color: #000000;
-	color: white;
+	background-color: white;
+	color: black;
 	overflow: scroll;
 }
 
 div {
-    	font-family: 'Lato', sans-serif;
+    	font-family: 'Amiri', serif;
     	/* border: 4px solid #ffffff; */
 }
 
 a.previews {
-	color: #A3A3A3;
+	color: #6b6b6b;
 	text-decoration: none;
 	margin-left: -5px;
 	display: inline-block;
@@ -23,6 +23,12 @@ a.previews {
 
 img.photos {
 	margin-bottom: 5px;
+}
+
+img.jerryphotos {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 img.preview {
@@ -43,23 +49,35 @@ a.about {
 	margin-left: -5px;
 }
 
+a.photo {
+	color: #6b6b6b;
+	text-decoration: none;
+	margin-left: -5px;
+}
+
+a.multimedia {
+	color: #6b6b6b;
+	text-decoration: none;
+	margin-left: -5px;
+}
+
 a.index {
-	color: #ffffff;
+	color: #000000;
 	text-decoration: none;
 	margin-left: -5px;
 }
 
 #header {
 	height: 10px;
-	font-weight: 300;
+	/*font-weight: 300;*/
 	margin-bottom: 10px;
-	color: white;
+	color: black;
 	font-size: 150%;
 }
 
 #sidebar {
 	font-weight: 300;
-	color: #A3A3A3;
+	color: #606060;
 	width: 70px;
 	display: inline;
 	position: relative;
@@ -68,7 +86,17 @@ a.index {
 }
 
 #body {
-	color: #ffffff;
+	color: #000000;
+	display: inline;
+  position: relative;
+  float: left;
+  margin-left: 100px;
+	margin-top: 20px;
+}
+
+#aboutbody {
+	font-weight: 300;
+	color: #282828;
 	display: inline;
   position: relative;
   float: left;
@@ -86,6 +114,14 @@ a.index {
 	margin-bottom: 20px;
 }
 
+#jerrycontainer {
+	height: 100%;
+	width: 100%;
+	overflow: scroll;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #container2 {
 	height: 100%;
 	width: 900px;
@@ -94,6 +130,13 @@ a.index {
 	margin-left: 100px;
 	margin-top: -30px;
 	margin-bottom: 20px;
+}
+
+p.email {
+	color: #000000;
+	font-weight: 400;
+	margin-left: -5px;
+	margin-top:-1px;
 }
 
 div.viewphotos {
@@ -106,8 +149,15 @@ div.presencephotos {
 	overflow: hidden;
 }
 
+div.jerryphotos {
+	display: inline-block;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 p {
-	font-weight: 300;
+	/*font-weight: 300;*/
 }
 
 p.contact {
