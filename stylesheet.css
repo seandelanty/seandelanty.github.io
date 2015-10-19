@@ -18,6 +18,10 @@ a.projectlink {
   color: black;
 }
 
+a.contact {
+  color: black;
+}
+
 .body {
   font-family: 'Lusitana', serif;
   font-style: italic;
@@ -36,6 +40,39 @@ a.projectlink {
   color: black;
   font-size: 70px;
   text-shadow: 5px 5px 5px #A1D6FF;
+}
+
+.contact {
+  font-family: 'Lusitana', serif;
+  font-style: italic;
+  color: black;
+  font-size: 40px;
+  text-shadow: 5px 5px 5px #A1D6FF;
+}
+
+.contactinfo {
+  font-family: 'Lusitana', serif;
+  color: black;
+  position: absolute;
+}
+
+.contactintro {
+  font-size: 25px;
+  position: absolute;
+  margin-left: 120px;
+  margin-top: 100px;
+}
+
+.myemail {
+  font-size: 35px;
+  margin-left: 160px;
+  margin-top: 150px;
+}
+
+.thanks {
+  font-size: 25px;
+  margin-left: 100px;
+  margin-top: 100px;
 }
 
 .projects a {
@@ -66,7 +103,7 @@ a.projectlink {
 
 #powershots {
   position: absolute;
-  margin-left: 500px;
+  margin-left: 600px;
   margin-top: 500px;
 }
 
@@ -74,4 +111,10 @@ a.projectlink {
   position: absolute;
   margin-top: -170px;
   margin-left: -50px;
+}
+
+#contact {
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 800px;
 }
