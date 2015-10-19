@@ -1,9 +1,17 @@
-html {
+body.index {
   background: url(images/bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.mainlink {
+  color: #ffffff;
 }
 
 .body {
@@ -16,4 +24,50 @@ html {
   top: 70%;
   left: 50%;
   margin-left: -370px;
+}
+
+.projects {
+  font-family: 'Lusitana', serif;
+  font-style: italic;
+  color: black;
+  font-size: 70px;
+  text-shadow: 5px 5px 5px #A1D6FF;
+}
+
+.projects a {
+  position:relative;
+}
+
+.projects span {
+  position:absolute;
+  display:none;
+  z-index:99;
+}
+
+.projects a:hover span {
+  display:block;
+}
+
+#shane {
+  position: absolute;
+  margin-left: 300px;
+  margin-top: 150px;
+}
+
+#shanepic {
+  position: absolute;
+  margin-top: -150px;
+  margin-left: -35px;
+}
+
+#powershots {
+  position: absolute;
+  margin-left: 900px;
+  margin-top: 600px;
+}
+
+#powershotspic {
+  position: absolute;
+  margin-top: -170px;
+  margin-left: -50px;
 }
