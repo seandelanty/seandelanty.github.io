@@ -29,15 +29,15 @@ a.contact {
   font-size: 140px;
   text-shadow: 5px 5px 5px #A1D6FF;
   position: absolute;
-  top: 70%;
-  left: 50%;
-  margin-left: -370px;
+  top: 68%;
+  left: 31%;
 }
 
 .projects {
   font-family: 'Lusitana', serif;
   font-style: italic;
   color: black;
+  position: absolute;
 }
 
 .contact {
@@ -46,31 +46,33 @@ a.contact {
   color: black;
   font-size: 40px;
   text-shadow: 5px 5px 5px #A1D6FF;
+  position: absolute;
 }
 
 .contactinfo {
   font-family: 'Lusitana', serif;
   color: black;
-  position: absolute;
 }
 
 .contactintro {
   font-size: 25px;
   position: absolute;
-  margin-left: 120px;
-  margin-top: 100px;
+  left: 10%;
+  top: 10%;
 }
 
 .myemail {
   font-size: 35px;
-  margin-left: 160px;
-  margin-top: 150px;
+  position: absolute;
+  left: 12%;
+  top: 13%;
 }
 
 .thanks {
   font-size: 25px;
-  margin-left: 100px;
-  margin-top: 100px;
+  position: absolute;
+  left: 7%;
+  top: 32%;
 }
 
 .projects a {
@@ -88,9 +90,10 @@ a.contact {
 }
 
 #shane {
-  position: absolute;
-  margin-left: 200px;
-  margin-top: 100px;
+  /*margin-left: 200px;
+  margin-top: 100px;*/
+  top: 15%;
+  left: 10%;
   font-size: 70px;
   text-shadow: 5px 5px 5px #A1D6FF;
 }
@@ -102,9 +105,10 @@ a.contact {
 }
 
 #jerry {
-  position: absolute;
-  margin-left: 120px;
-  margin-top: 610px;
+  /*margin-left: 120px;
+  margin-top: 610px;*/
+  top: 67%;
+  left: 17%;
   font-size: 45px;
   text-shadow: 4px 4px 4px #A1D6FF;
 }
@@ -116,9 +120,10 @@ a.contact {
 }
 
 #powershots {
-  position: absolute;
-  margin-left: 500px;
-  margin-top: 400px;
+  /*margin-left: 500px;
+  margin-top: 400px;*/
+  top: 35%;
+  left: 54%;
   font-size: 55px;
   text-shadow: 4px 4px 4px #A1D6FF;
 }
@@ -130,9 +135,11 @@ a.contact {
 }
 
 #contact {
+  /*margin-left: 350px;
+  margin-top: 850px;*/
   position: absolute;
-  margin-left: 350px;
-  margin-top: 850px;
+  top: 83%;
+  left: 32%;
 }
 
 .jerryphotos {
