@@ -30,7 +30,8 @@ a.contact {
   text-shadow: 5px 5px 5px #A1D6FF;
   position: absolute;
   top: 70%;
-  left: 32%;
+  left: 50%;
+  margin-left: -310px;
 }
 
 .projects {
