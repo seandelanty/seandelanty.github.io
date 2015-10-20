@@ -26,11 +26,11 @@ a.contact {
   font-family: 'Lusitana', serif;
   font-style: italic;
   color: white;
-  font-size: 140px;
+  font-size: 120px;
   text-shadow: 5px 5px 5px #A1D6FF;
   position: absolute;
-  top: 68%;
-  left: 31%;
+  top: 70%;
+  left: 32%;
 }
 
 .projects {
@@ -168,4 +168,8 @@ a.contact {
 .filmphotos {
   width: 800px;
   margin-top: 150px;
+}
+
+.previewimage {
+  box-shadow: 6px 6px 6px #000000;
 }
