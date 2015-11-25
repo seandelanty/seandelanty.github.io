@@ -1,5 +1,5 @@
 body.index {
-  background: url(images/bg.jpg) no-repeat center center fixed;
+  background: url(images/bg2.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -27,10 +27,10 @@ a.contact {
   font-style: italic;
   color: white;
   font-size: 120px;
-  text-shadow: 5px 5px 5px #A1D6FF;
+  text-shadow: 5px 5px 5px #d8a6d7;
   position: absolute;
-  top: 70%;
-  left: 50%;
+  top: 14%;
+  left: 51%;
   margin-left: -310px;
 }
 
@@ -46,7 +46,7 @@ a.contact {
   font-style: italic;
   color: black;
   font-size: 40px;
-  text-shadow: 5px 5px 5px #A1D6FF;
+  text-shadow: 5px 5px 5px #d8a6d7;
   position: absolute;
 }
 
@@ -94,7 +94,7 @@ a.contact {
   top: 15%;
   left: 10%;
   font-size: 70px;
-  text-shadow: 5px 5px 5px #A1D6FF;
+  text-shadow: 5px 5px 5px #d8a6d7;
 }
 
 #shanepic {
@@ -107,7 +107,7 @@ a.contact {
   top: 67%;
   left: 17%;
   font-size: 45px;
-  text-shadow: 4px 4px 4px #A1D6FF;
+  text-shadow: 4px 4px 4px #d8a6d7;
 }
 
 #jerrypic {
@@ -120,7 +120,7 @@ a.contact {
   top: 54%;
   left: 65%;
   font-size: 65px;
-  text-shadow: 5px 5px 5px #A1D6FF;
+  text-shadow: 5px 5px 5px #d8a6d7;
 }
 
 #filmpic {
@@ -133,7 +133,7 @@ a.contact {
   top: 35%;
   left: 54%;
   font-size: 55px;
-  text-shadow: 4px 4px 4px #A1D6FF;
+  text-shadow: 4px 4px 4px #d8a6d7;
 }
 
 #powershotspic {
@@ -146,7 +146,7 @@ a.contact {
   top: 10%;
   left: 74%;
   font-size: 55px;
-  text-shadow: 4px 4px 4px #A1D6FF;
+  text-shadow: 4px 4px 4px #d8a6d7;
 }
 
 #iphonepic {
