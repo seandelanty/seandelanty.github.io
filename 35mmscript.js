@@ -1,6 +1,6 @@
 var usedImages = {};
 var usedImagesCount = 0;
-var numImages = 35;
+var numImages = 38;
 function displayImage() {
     var num = 1+Math.floor(Math.random() * (numImages));
     if (!usedImages[num]){
