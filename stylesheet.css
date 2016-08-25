@@ -1,186 +1,33 @@
-body.index {
-  background: url(images/bg2.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+
+.name {
+  font-family: 'EB Garamond', serif;
+  color: black;
+  font-size: 40px;
+  margin-left: 30px;
+}
+
+.list {
+  font-family: 'EB Garamond', serif;
+  color: black;
+  font-size: 20px;
+  margin-left: 30px;
+}
+
+.work {
+  font-family: 'EB Garamond', serif;
+  color: black;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+.image {
+  width: 50%;
+  position: absolute;
+  left: 25%;
+  top: 5%
 }
 
 a {
+  color: black;
   text-decoration: none;
-}
-
-a.mainlink {
-  color: #ffffff;
-}
-
-a.projectlink {
-  color: black;
-}
-
-a.contact {
-  color: black;
-}
-
-.body {
-  font-family: 'Lusitana', serif;
-  font-style: italic;
-  color: white;
-  font-size: 120px;
-  text-shadow: 5px 5px 5px #d8a6d7;
-  position: absolute;
-  top: 14%;
-  left: 51%;
-  margin-left: -310px;
-}
-
-.projects {
-  font-family: 'Lusitana', serif;
-  font-style: italic;
-  color: black;
-  position: absolute;
-}
-
-.contact {
-  font-family: 'Lusitana', serif;
-  font-style: italic;
-  color: black;
-  font-size: 40px;
-  text-shadow: 5px 5px 5px #d8a6d7;
-  position: absolute;
-}
-
-.contactinfo {
-  font-family: 'Lusitana', serif;
-  color: black;
-}
-
-.contactintro {
-  font-size: 25px;
-  position: absolute;
-  left: 10%;
-  top: 10%;
-}
-
-.myemail {
-  font-size: 35px;
-  position: absolute;
-  left: 12%;
-  top: 13%;
-}
-
-.thanks {
-  font-size: 25px;
-  position: absolute;
-  left: 7%;
-  top: 32%;
-}
-
-.projects a {
-  position:relative;
-}
-
-.projects span {
-  position:absolute;
-  display:none;
-  z-index:99;
-}
-
-.projects a:hover span {
-  display:block;
-}
-
-#shane {
-  top: 15%;
-  left: 10%;
-  font-size: 70px;
-  text-shadow: 5px 5px 5px #d8a6d7;
-}
-
-#shanepic {
-  position: absolute;
-  margin-top: -150px;
-  margin-left: -35px;
-}
-
-#jerry {
-  top: 67%;
-  left: 17%;
-  font-size: 45px;
-  text-shadow: 4px 4px 4px #d8a6d7;
-}
-
-#jerrypic {
-  position: absolute;
-  margin-top: -97px;
-  margin-left: -52px;
-}
-
-#film {
-  top: 54%;
-  left: 65%;
-  font-size: 65px;
-  text-shadow: 5px 5px 5px #d8a6d7;
-}
-
-#filmpic {
-  position: absolute;
-  margin-top: -112px;
-  margin-left: -35px;
-}
-
-#powershots {
-  top: 35%;
-  left: 54%;
-  font-size: 55px;
-  text-shadow: 4px 4px 4px #d8a6d7;
-}
-
-#powershotspic {
-  position: absolute;
-  margin-top: -150px;
-  margin-left: -35px;
-}
-
-#iphone {
-  top: 10%;
-  left: 74%;
-  font-size: 55px;
-  text-shadow: 4px 4px 4px #d8a6d7;
-}
-
-#iphonepic {
-  position: absolute;
-  margin-top: -110px;
-  margin-left: -35px;
-}
-
-#contact {
-  position: absolute;
-  top: 83%;
-  left: 32%;
-}
-
-#email {
-  width: 800px;
-  height: 153px;
-  position: absolute;
-  left: 50%;
-  margin-left: -400px;
-  top: 50%;
-  margin-top: -75px;
-}
-
-.jerryphotos {
-  width: 1000px;
-  margin-top: 100px;
-}
-
-.filmphotos {
-  width: 800px;
-  margin-top: 150px;
-}
-
-.previewimage {
-  box-shadow: 6px 6px 6px #000000;
 }
